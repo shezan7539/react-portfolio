@@ -1,37 +1,37 @@
-const logotext = "JOHN";
+const logotext = "Shezan";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Shezan",
+    description: "I’m MD Mizanur Rahman (Shezan)",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I'm Shezan",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "E-sPorts Player",
+        second: "Social Media Expert",
+        third: "Based In Naogaon Sadar",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "Hey There, This Is Shezan. Welcome To My Portfolio",
+    your_img_url: "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/439787759_1590036428456810_4417784619752816003_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeH--f0lDpzouchT9vGXpGKBxYR3r87TrozFhHevztOujHqzBSq4zfb0nV2UiJpBRtgRvy3F0LLvj48Qa4xgZxHB&_nc_ohc=m3oCoIlfoW8Q7kNvgG3CUJ3&_nc_ht=scontent.fdac8-1.fna&oh=00_AYD7dwhzD2jLh-CGXHNIv1hJ71suS0dAtWCfbxCW6TFxkA&oe=66D22DFB",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "about my self",
+    aboutme: "Haha, Its Secret Bro.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "HSC",
+        where: "Naogaon Astan Mollah College",
+        date: "2024",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "SSC",
+        where: "Pirojpur B.L High School, Naogaon",
+        date: "2022",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
+        jobtitle: "JSC",
+        where: "Pirojpur B.L High School, Naogaon",
         date: "2019",
     },
 ];
@@ -147,10 +147,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/shezan7539",
+    facebook: "https://facebook.com/mdmizanurrahmanshezan",
+    linkedin: "https://linkedin.com/mdmizanurrahmanshezan",
+    twitter: "https://twitter.com/shezan7539",
 };
 export {
     meta,
