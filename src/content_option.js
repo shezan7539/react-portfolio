@@ -14,12 +14,12 @@ const introdata = {
         fifth: "Based In Naogaon Sadar",
     },
     description: "Hey There, This Is MD Mizanur Rahman (Shezan). Welcome To My Portfolio",
-    your_img_url: "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/439787759_1590036428456810_4417784619752816003_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeH--f0lDpzouchT9vGXpGKBxYR3r87TrozFhHevztOujHqzBSq4zfb0nV2UiJpBRtgRvy3F0LLvj48Qa4xgZxHB&_nc_ohc=m3oCoIlfoW8Q7kNvgG3CUJ3&_nc_ht=scontent.fdac8-1.fna&oh=00_AYD7dwhzD2jLh-CGXHNIv1hJ71suS0dAtWCfbxCW6TFxkA&oe=66D22DFB",
+    your_img_url: "https://www.imghost.net/ib/BKvniqMuiKOTT4i_1724671969.png",
 };
 
 const dataabout = {
     title: "about my self",
-    aboutme: "Haha, Its Secret Bro.",
+    aboutme: "Haha, It's Secret Bro.",
 };
 const worktimeline = [{
         jobtitle: "HSC",
@@ -75,7 +75,7 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/455136778_1660354071425045_8580115927455368769_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF5dN91dMgJgZiHvwbvjFQ-W9bbXRszaZhb1ttdGzNpmLWnbTurTothD598wPLZN9lPofM1g4dGAySWCqYPtQ7X&_nc_ohc=aObaFmakA08Q7kNvgE5KIkB&_nc_ht=scontent.fdac8-1.fna&oh=00_AYBDDvK7Mi9BROZX_Q0CcvTM2HFA32B-O8Bub-j-a1DfpQ&oe=66D22BC3",
+        img: "https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/439787759_1590036428456810_4417784619752816003_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeH--f0lDpzouchT9vGXpGKBxYR3r87TrozFhHevztOujHqzBSq4zfb0nV2UiJpBRtgRvy3F0LLvj48Qa4xgZxHB&_nc_ohc=m3oCoIlfoW8Q7kNvgG3CUJ3&_nc_ht=scontent.fdac8-1.fna&oh=00_AYD7dwhzD2jLh-CGXHNIv1hJ71suS0dAtWCfbxCW6TFxkA&oe=66D22DFB",
         description: "Picture 01.",
         link: "#",
     },
