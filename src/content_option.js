@@ -14,7 +14,7 @@ const introdata = {
         fifth: "Based In Naogaon Sadar",
     },
     description: "Hey There, This Is MD Mizanur Rahman (Shezan). Welcome To My Portfolio",
-    your_img_url: "https://imgur.com/a/wQBzMvJ",
+    your_img_url: "https://www.imghost.net/ib/mMegr3ZNLknpruG_1724671366.png",
 };
 
 const dataabout = {
